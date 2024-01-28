@@ -1,0 +1,1 @@
+The code "creator.py" simulates a randomly generated creature with actuators that automatically move its limbs. The code writes a .xml file titled "beginning_of_life" alluding to the beginning of this being's short life. The genotype for this being is displayed in "genotype_graph.png" and an example morphology is available in "creature_morphology.png".
