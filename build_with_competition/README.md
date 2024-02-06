@@ -1,1 +1,1 @@
-
+The code "build_with_competition.py" builds multiple parent creatures based on input parameters and tests them individually on their final x-position in space. The creature that has moved the farthest in the x-direction at the end of the simulation is chosen to have the highest fitness and is simulated with a viewport. Additionally the trajectory of the best parent creature over the simulation time is projected on the XY plane and plotted.
