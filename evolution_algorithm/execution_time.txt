@@ -1,0 +1,120 @@
+The code took 10.29 seconds to run.
+Generation: 5
+Population per generation: 30
+Steps: 2000
+
+
+The code took 10.13 seconds to run.
+Generation: 5
+Population per generation: 30
+Steps: 2000
+
+
+The code took 5.68 seconds to run.
+Generation: 5
+Population per generation: 30
+Steps: 2000
+
+
+The code took 5.52 seconds to run.
+Generation: 5
+Population per generation: 30
+Steps: 2000
+
+
+The code took 10.27 seconds to run.
+Generation: 5
+Population per generation: 30
+Steps: 2000
+
+
+The code took 9.82 seconds to run.
+Generation: 5
+Population per generation: 30
+Steps: 2000
+
+
+The code took 5.71 seconds to run.
+Generation: 5
+Population per generation: 30
+Steps: 2000
+
+
+The code took 5.64 seconds to run.
+Generation: 5
+Population per generation: 30
+Steps: 2000
+
+
+The code took 33.46 seconds to run.
+Generation: 10
+Population per generation: 30
+Steps: 2000
+
+
+The code took 52.28 seconds to run.
+Generation: 50
+Population per generation: 10
+Steps: 2000
+
+
+The code took 78.24 seconds to run.
+Generation: 70
+Population per generation: 10
+Steps: 2000
+
+
+The code took 443.94 seconds to run.
+Generation: 70
+Population per generation: 30
+Steps: 2000
+
+
+The code took 1096.49 seconds to run.
+Generation: 100
+Population per generation: 50
+Steps: 2000
+
+
+The code took 503.58 seconds to run.
+Generation: 200
+Population per generation: 50
+Steps: 2000
+
+
+The code took 14.41 seconds to run.
+Generation: 2
+Population per generation: 50
+Steps: 2000
+
+
+The code took 6.49 seconds to run.
+Generation: 2
+Population per generation: 50
+Steps: 2000
+
+
+The code took 14.34 seconds to run.
+Generation: 2
+Population per generation: 50
+Steps: 2000
+
+
+The code took 28.05 seconds to run.
+Generation: 4
+Population per generation: 50
+Steps: 2000
+
+
+The code took 37.77 seconds to run.
+Generation: 2
+Population per generation: 100
+Steps: 2000
+
+
+The code took 19310.81 seconds to run.
+Generation: 500
+Population per generation: 100
+Steps: 2000
+
+
