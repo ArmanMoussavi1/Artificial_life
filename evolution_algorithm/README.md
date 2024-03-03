@@ -21,6 +21,5 @@ Additionally, the code “read_blueprints.py” allows the user to read in bluep
 
 All coding logic was manually derived. Technical implementation of the logic as well as debugging and cleaning was aided by pulling snips of code from various sources as well as help from ChatGPT. 
 Code is written in the open-source language Python (Van Rossum, G., & Drake Jr, F. L. (1995). Python reference manual. Centrum voor Wiskunde en Informatica Amsterdam). Simulations were run using the physics engine Mujoco (Todorov, E., Erez, T. & Tassa, Y. (2012). MuJoCo: A physics engine for model-based control.. IROS (p./pp. 5026-5033), : IEEE. ISBN: 978-1-4673-1737-5). 
-![image](https://github.com/ArmanMoussavi1/Artificial_life/assets/144376506/f932a6db-814c-4580-9fd4-b99faa56eb8e)
 
 
